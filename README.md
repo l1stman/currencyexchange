@@ -10,7 +10,7 @@ This is a simple currency exchange app built with React.js and styled with Tailw
 - API used: [ExchangeRate](https://www.exchangerate-api.com/)
 ## Demo
 
-You can test the live version of the app [here](https://currency-exchange-l1stman.netlify.app/).
+You can test the live version of the app [here](https://currencyexchange-l1stman.netlify.app/).
 
 ## Screenshots
 
